@@ -1,0 +1,30 @@
+{
+  "name": "collaborativeTextEditor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diegosoriarios/collaborativeTextEditor.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diegosoriarios/collaborativeTextEditor/issues"
+  },
+  "homepage": "https://github.com/diegosoriarios/collaborativeTextEditor#readme",
+  "dependencies": {
+    "@angular/cli": "^8.3.15",
+    "@types/socket.io": "^2.1.4",
+    "express": "^4.17.1",
+    "ng": "0.0.0",
+    "socket.io": "^2.3.0"
+  },
+  "devDependencies": {
+    "@schematics/angular": "^7.0.7"
+  }
+}
